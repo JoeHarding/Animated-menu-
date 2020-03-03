@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261" height="35" viewBox="0 0 261 35">
+  <g id="logo5" transform="translate(96 36.25)">
+    <path id="Icon_awesome-shapes" data-name="Icon awesome-shapes" d="M51.889,21.875V32.813c0,1.208-1.452,2.188-3.243,2.188H32.431c-1.791,0-3.243-.98-3.243-2.187V21.875c0-1.208,1.452-2.187,3.243-2.187H48.646C50.437,19.688,51.889,20.667,51.889,21.875ZM12.972,1.094C5.808,1.094,0,21.418,0,26.25S5.808,35,12.972,35s12.972-3.918,12.972-8.75S20.136,1.094,12.972,1.094ZM48.548,15.313c2.568,0,1.284-1.823,0-3.281L41.806,1.094a4.364,4.364,0,0,0-5.779,0l-6.84,10.938c-1.284,1.458-2.47,3.281.1,3.281H48.548Z" transform="translate(-96 -36.25)" fill="#4ecdc4"/>
+    <text id="Your_Website" data-name="Your Website" transform="translate(-38 -8.25)" fill="#1a535c" font-size="29" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Your Website</tspan></text>
+  </g>
+</svg>
